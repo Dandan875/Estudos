@@ -1,7 +1,7 @@
 <h1 align="center"> Curso Explore Rocketseat</h1>
 
 <p align="center">
-Aluno: Danil Xavier<br>
+Aluno: Daniel Xavier<br>
 </p>
 
 <p align="center">
