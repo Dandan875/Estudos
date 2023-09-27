@@ -1,7 +1,7 @@
-<h1 align="center"> Curso B7web</h1>
+<h1 align="center"> Curso Explore Rocketseat</h1>
 
 <p align="center">
-Aluno: Arthur Dos Santos Silva<br>
+Aluno: Danil Xavier<br>
 </p>
 
 <p align="center">
@@ -29,14 +29,8 @@ Tecnologias apreendidas nesse curso:
 
 <p>Projetos e desafios em HTML e CSS desenvolvidos no curso</p>
 
-- [Modulo 01 - Conceitos Básicos](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo1)
-- [Modulo 02 - Entendendo o HTML com CSS](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo2)
-- [Modulo 03 - Listas, Tabelas e Formulários](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo3)
-- [Modulo 04 - Características do CSS](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo4)
-- [Modulo 05 - Responsividade](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo5)
-- [Modulo 06 - Semântica e CSS Avançado](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo6)
-- [Modulo 07 - Flexbox na prática](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo7)
-- [Modulo 08 - Seletores e CSS3](https://github.com/THXZZZ/curso-b7web/tree/main/htmlcss/modulo8)
+- [Desafio 01](https://github.com/Dandan875/Estudos/tree/master/frontend)
+- [Desafio 02](https://github.com/Dandan875/Estudos/tree/master/frontend2)
 
 ## :memo: Licença
 
