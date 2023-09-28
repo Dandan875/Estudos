@@ -29,8 +29,9 @@ Tecnologias apreendidas nesse curso:
 
 <p>Projetos e desafios em HTML e CSS desenvolvidos no curso</p>
 
-- [Desafio 01](https://github.com/Dandan875/Estudos/tree/master/frontend)
-- [Desafio 02](https://github.com/Dandan875/Estudos/tree/master/frontend2)
+- [Desafio 01](https://github.com/Dandan875/Estudos/tree/master/Site%20de%20m%C3%B3veis)
+- [Desafio 02](https://github.com/Dandan875/Estudos/tree/master/Site%20de%20viagens)
+- [Desafio 03](https://github.com/Dandan875/Estudos/tree/master/Site%20de%20academia)
 
 ## :memo: Licença
 
